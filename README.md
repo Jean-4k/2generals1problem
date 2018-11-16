@@ -6,12 +6,12 @@ A GPLv2 simulation of the 2 generals problem.
 
 You must have a lisp evaluator on your machine.
 For instance, you can install sbcl :
-```lisp
+```shell
 apt install sbcl
 ```
 
 Clone the directory, then go within, and start a sbcl session :
-```bash
+```shell
 sbcl --load simulation.lisp
 ```
 
